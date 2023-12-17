@@ -1,20 +1,19 @@
 ---
-title: "Decorporation"
-summary: "A fast-paced violent shooter with roguelike mechanics and a style scoring system."
-image: /images/decorporation.jpg
-imageAlt: "Decorporation Screenshots"
-when: "01/2022 - 08/2022"
+title: "V-01-DER"
+summary: "(Unfinished project) A stylish space shoot'em up with light RPG mechanics and narrative focus."
+image: /images/v01der.png
+imageAlt: "V-01-DER Screenshots"
 tech:
+  - "Unity Developer"
   - "Game Designer"
-  - "QA Tester"
-  - "Additional Assets"
-siteUrl: "https://store.steampowered.com/app/1968950/Decorporation/"
+  - "Graphics Designer"
+siteUrl: "#"
 repoUrl: "#"
 ---
 
 ### Problem Solved
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt tortor aliquam nulla facilisi. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit. Condimentum lacinia quis vel eros donec ac odio tempor orci.
+Yes, I could have just used DnD Beyond. But where's the fun in that? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt tortor aliquam nulla facilisi. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit. Condimentum lacinia quis vel eros donec ac odio tempor orci.
 
 ### Technologies Used
 

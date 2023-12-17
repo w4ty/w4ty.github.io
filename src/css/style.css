@@ -332,6 +332,12 @@
     text-decoration: underline;
   }
   
+  .project-card__date{
+    color: var(--base-text);
+    margin-bottom: 1rem;
+    font-size: 90%;
+  }
+
   /* Project Page Styles */
   
   .project-list {

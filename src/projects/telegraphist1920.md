@@ -1,13 +1,14 @@
 ---
 title: "Telegraphist 1920: Beats of War"
-summary: "Sometimes it's hard to keep in touch with friends and family. I made this app to remind me to schedule a call if we haven't talked in a while."
+summary: "A narrative rythmn game following the story of a telegraphist during the Battle of Warsaw."
 image: /images/telegraphist1920.png
 imageAlt: "Telegraphist 1920 Screenshots"
+when: "03/2023 - Ongoing"
 tech:
   - "Game Designer"
   - "QA Tester"
   - "Proofreader"
-siteUrl: "#"
+siteUrl: "https://telegraphist1920.com/"
 repoUrl: "#"
 ---
 

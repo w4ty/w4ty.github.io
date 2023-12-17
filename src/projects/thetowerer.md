@@ -1,27 +1,23 @@
 ---
 title: "The Towerer"
-summary: "I'm a huge Dungeons and Dragons fan, but keeping my spells straight has always been a challenge. I built this app to put all the information I need at my fingertips."
+summary: "A slick and highly replayable roguelike with a big roster of weapons and upgrades to choose from."
 image: /images/thetowerer.png
 imageAlt: "The Towerer Screenshots"
+when: "11/2018 - 07/2020"
 tech:
   - "QA Tester"
   - "Junior Game Designer"
-siteUrl: "#"
+siteUrl: "https://cyberevolver_studios.indie.af/the-towerer/"
 repoUrl: "#"
 ---
+**[Check out The Towerer's website here](https://cyberevolver_studios.indie.af/the-towerer/)**
+### About The Project
 
-### Problem Solved
+This game was made in order to experiment with making a more polished and clean experience, where fun gameplay was the primary concern. This approach resulted in a fast-paced, highly replayable, and most of all fun game.
 
-Yes, I could have just used DnD Beyond. But where's the fun in that? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt tortor aliquam nulla facilisi. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit. Condimentum lacinia quis vel eros donec ac odio tempor orci.
+### Tools Used
 
-### Technologies Used
+Unity (C#), Trello, Notion, Google Docs
 
-Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Consequat ac felis donec et odio pellentesque diam volutpat commodo.
+### Role In Project
 
-### Challenges Faced
-
-Eget mauris pharetra et ultrices. Molestie nunc non blandit massa enim nec. Ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae. Nulla at volutpat diam ut venenatis. Volutpat ac tincidunt vitae semper quis lectus nulla at.
-
-### Lessons Learned
-
-Non blandit massa enim nec. Tempor commodo ullamcorper a lacus vestibulum sed. Et netus et malesuada fames ac turpis egestas integer eget. In ante metus dictum at tempor commodo. Eu scelerisque felis imperdiet proin fermentum leo.
