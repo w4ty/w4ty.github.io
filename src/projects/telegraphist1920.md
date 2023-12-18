@@ -27,7 +27,7 @@ Unity (C#), Trello, Notion, Anytype, Excel, Adobe Photoshop, Miro, Git
 
 ### Impact On Project
 
-Eget mauris pharetra et ultrices. Molestie nunc non blandit massa enim nec. Ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae. Nulla at volutpat diam ut venenatis. Volutpat ac tincidunt vitae semper quis lectus nulla at.
+Designing gameplay mechanics, improving UX, analysing and gathering feedback, finding and reporting glitches, proofreading.
 
 ![gif1](https://cdn.akamai.steamstatic.com/steam/apps/2584510/extras/sos.gif?t=1702734595)
 ![screenshot1](https://cdn.akamai.steamstatic.com/steam/apps/2584510/ss_9bfa44db88130dbf069b0de2fdf98b77c6842cfd.1920x1080.jpg?t=1702734595)
