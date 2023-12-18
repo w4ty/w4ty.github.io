@@ -1,11 +1,11 @@
 ---
-title: "Eleventy Portfolio"
+title: "Bruno Talaga's Projects"
 layout: "base.njk"
 ---
 
-<h2 class="projects__heading">Recent projects</h2>
+<h2 class="projects__heading">My projects</h2>
 <div class="project-list">
-  {% for project in collections.projects %}
+  {% for project in collections.projects | reverse %}
     {% include "project-card.njk" %}
   {% endfor %}
 </div>
