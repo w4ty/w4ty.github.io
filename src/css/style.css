@@ -361,7 +361,11 @@
   .project {
     margin-bottom: 4rem;
   }
-  
+  .project__date {
+    color: var(--base-text);
+    margin-bottom: 0.5rem;
+  }
+
   .project__image-wrapper {
     margin-bottom: 1.5rem;
   }

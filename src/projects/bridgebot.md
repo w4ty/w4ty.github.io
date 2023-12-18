@@ -29,5 +29,7 @@ Unity (C#), Trello, Notion, Google Docs, Git
 
 Designing the core concept, planning out gameplay mechanics, creating characters, fixing bugs/glitches, improving the codebase, writing code.
 
+### Screenshots
+
 ![screenshot1](https://img.itch.zone/aW1hZ2UvNjA0ODczLzM2MzI1NzEucG5n/original/r0MOl9.png)
 ![screenshot2](https://img.itch.zone/aW1hZ2UvNjA0ODczLzM2MzI1NjkucG5n/original/KyUUPS.png)

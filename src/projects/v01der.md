@@ -28,5 +28,7 @@ Unity (C#), Trello, Google Docs, Excel, Adobe Photoshop, Git
 
 Writing most of the code alone and with the use of tutorials, making almost all of the original assets (except for the soundtrack), porting the game to PSVita.
 
+### Screenshots
+
 ![screenshot1](/images/vr1.png)
 ![screenshot2](/images/vr2.png)

@@ -29,5 +29,7 @@ Unity (C#), Trello, Google Docs
 
 Finding and reporting glitches, giving feedback on gameplay mechanics and difficulty, proofreading, translating from Polish to English.
 
+### Screenshots
+
 ![gif1](https://cdn.akamai.steamstatic.com/steam/apps/2000320/extras/kicm2.gif?t=1661091422)
 ![screenshot1](https://cdn.akamai.steamstatic.com/steam/apps/2000320/ss_963bb84a00203b6bc883c0c895736bc3df7e9a2f.jpg?t=1661091422)

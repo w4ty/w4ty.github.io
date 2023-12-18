@@ -28,5 +28,7 @@ Clickteam Fusion 2.5, Trello, Google Docs, Adobe Photoshop
 
 Designing the game, creating visual assets, writing the story.
 
+### Screenshots
+
 ![gif1](https://i.gjcdn.net/public-data/games/4/0/283750/screenshots/void_r-mfkrp4hy.gif)
 ![screenshot1](https://i.gjcdn.net/public-data/games/4/0/283750/screenshots/screenshot1-zjjtpgp6.png)
