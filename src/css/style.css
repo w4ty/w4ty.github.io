@@ -80,14 +80,17 @@
   }
   
   /* Header Styles */
-  
+  .head__container {
+    padding: 1.5rem 0;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
   .header {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
     align-items: center;
     flex-wrap: wrap;
-    background-color: rgba(0, 0, 0, 0.5);
     border-radius: 0.3rem;
     /*margin-bottom: 4rem;
     padding: 0.5rem 1.5rem;*/
@@ -136,7 +139,7 @@
     color: var(--slate-300);
     flex-shrink: 0;
     width: 100%;
-    padding: 0.5rem 0;
+    padding: 1rem 0;
     text-align: center;
   }
   
@@ -151,10 +154,12 @@
   .profile {
     display: flex;
     flex-direction: column;
+    padding: 0;
   }
   
   .profile__image-wrapper{
     padding-top: 0.25rem;
+    padding-right: 0.5rem;
   }
   .profile__image-wrapper picture {
     width: 100%;
@@ -170,7 +175,7 @@
   .profile__card {
     display: flex;
     flex-direction: column;
-    padding: 4rem 0 1rem;
+    padding: 4rem 0 0;
     flex: 1;
   }
   
@@ -201,6 +206,34 @@
     text-decoration: underline;
   }
   
+  .profile__socials {
+    display: flex;
+    flex-direction: row;
+    padding-top: 1rem;
+    gap: 1rem;
+  }
+
+  .profile__socials img {
+    width: 32px;
+    height: 32px;
+  }
+  .socials__imgwrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.5rem;
+  }
+  .socials__icons {
+    color: var(--base-text);
+  }
+  .socials__imgwrapper svg {
+    width: 32px;
+    height: 32px;
+  }
+  .socials__icons:hover {
+    color: var(--magenta-600)
+  }
+
   /* Technologies Styles */
   
   .technologies__heading {
@@ -219,6 +252,7 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(125px, 1fr));
     gap: 1.5rem;
+    padding-bottom: 5rem;
   }
   
   .technologies__item {
@@ -442,12 +476,16 @@
     margin-left: 0.5rem;
   }
   .contact__link img {
-    background-color: white;
     border-radius: 0.375rem;
     padding: 0.1rem 0.1rem;
-    margin-top: 0.5rem;
+    margin-top: 0.45rem;
     width: 20px;
     height: 20px;
+  }
+  .contact__link svg {
+    width: 20px;
+    height: 20px;
+    margin-top: 0.45rem;
   }
   .contact__link:hover {
     color: var(--magenta-700);
@@ -456,6 +494,9 @@
     color: var(--magenta-600);
     padding: 1rem 0;
     font-size: 2.25rem;
+  }
+  .contact__icons {
+    color: var(--base-text);
   }
   
   @media (min-width: 640px) {
