@@ -1,7 +1,7 @@
 <section class="projects">
-  <h2 class="project__heading">Recent projects</h2>
+  <h2 class="project__heading">My projects</h2>
   <div class="project-grid">
-    {% for project in collections.projects %}
+    {% for project in collections.projects | reverse %}
       {% include "project-card.njk" %}
     {% endfor %}
   </div>

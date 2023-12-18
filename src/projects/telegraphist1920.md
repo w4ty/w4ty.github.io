@@ -4,6 +4,7 @@ summary: "A narrative rythmn game following the story of a telegraphist during t
 image: /images/telegraphist1920.png
 imageAlt: "Telegraphist 1920 Screenshots"
 when: "03/2023 - Ongoing"
+date: 2023-03-01
 tech:
   - "Game Designer"
   - "QA Tester"
@@ -11,19 +12,22 @@ tech:
 siteUrl: "https://telegraphist1920.com/"
 repoUrl: "#"
 ---
+### Links
 
-### Problem Solved
+**[Game's Website](https://telegraphist1920.com)**  
+**[Steam](https://store.steampowered.com/app/2584510/Telegraphist_1920_Beats_of_War)**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt tortor aliquam nulla facilisi. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit. Condimentum lacinia quis vel eros donec ac odio tempor orci.
+### About The Project
 
-### Technologies Used
+A rythmn game with strong narrative elements, focused on telling the story of a wartime telegraphist in the year 1920, with the Battle of Warsaw being the highlight. 
 
-Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Consequat ac felis donec et odio pellentesque diam volutpat commodo.
+### Tools Used
 
-### Challenges Faced
+Unity (C#), Trello, Notion, Anytype, Excel, Adobe Photoshop, Miro, Git
+
+### Impact On Project
 
 Eget mauris pharetra et ultrices. Molestie nunc non blandit massa enim nec. Ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae. Nulla at volutpat diam ut venenatis. Volutpat ac tincidunt vitae semper quis lectus nulla at.
 
-### Lessons Learned
-
-Non blandit massa enim nec. Tempor commodo ullamcorper a lacus vestibulum sed. Et netus et malesuada fames ac turpis egestas integer eget. In ante metus dictum at tempor commodo. Eu scelerisque felis imperdiet proin fermentum leo.
+![gif1](https://cdn.akamai.steamstatic.com/steam/apps/2584510/extras/sos.gif?t=1702734595)
+![screenshot1](https://cdn.akamai.steamstatic.com/steam/apps/2584510/ss_9bfa44db88130dbf069b0de2fdf98b77c6842cfd.1920x1080.jpg?t=1702734595)

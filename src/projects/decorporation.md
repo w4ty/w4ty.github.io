@@ -1,9 +1,10 @@
 ---
 title: "Decorporation"
 summary: "A fast-paced violent shooter with roguelike mechanics and a style scoring system."
-image: /images/decorporation.jpg
+image: /images/decorporation.png
 imageAlt: "Decorporation Screenshots"
 when: "01/2022 - 08/2022"
+date: 2022-01-01
 tech:
   - "Game Designer"
   - "QA Tester"
@@ -11,19 +12,21 @@ tech:
 siteUrl: "https://store.steampowered.com/app/1968950/Decorporation/"
 repoUrl: "#"
 ---
+### Links
 
-### Problem Solved
+**[Steam](https://store.steampowered.com/app/1968950/Decorporation/)**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt tortor aliquam nulla facilisi. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit. Condimentum lacinia quis vel eros donec ac odio tempor orci.
+### About The Project
 
-### Technologies Used
+A fast-paced roguelike first person shooter. The move to 3D FPP view presented new, unique challenges that had to dealt with. There were issues with the movement not feeling smooth, tons of bugs and glitches, as well as problems with performance, but with enough feedback and game design discussions the project turned out really solid. Working on it was a breath of fresh air and a memorable experience.
 
-Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Consequat ac felis donec et odio pellentesque diam volutpat commodo.
+### Tools Used
 
-### Challenges Faced
+Unity (C#), Trello, Notion, Adobe Photoshop, Audacity, Sony Vegas
 
-Eget mauris pharetra et ultrices. Molestie nunc non blandit massa enim nec. Ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae. Nulla at volutpat diam ut venenatis. Volutpat ac tincidunt vitae semper quis lectus nulla at.
+### Impact On Project
 
-### Lessons Learned
+Finding and reporting bugs, analysing feedback from game testers and the community, designing and implementing game mechanics, balancing various parts of the game, creating additional audiovisual assets.
 
-Non blandit massa enim nec. Tempor commodo ullamcorper a lacus vestibulum sed. Et netus et malesuada fames ac turpis egestas integer eget. In ante metus dictum at tempor commodo. Eu scelerisque felis imperdiet proin fermentum leo.
+![gif1](https://cdn.akamai.steamstatic.com/steam/apps/1968950/extras/Steam_1.gif?t=1666128322)
+![gif2](https://cdn.akamai.steamstatic.com/steam/apps/1968950/extras/Steam_2.gif?t=1666128322)
