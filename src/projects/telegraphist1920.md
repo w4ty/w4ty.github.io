@@ -19,7 +19,7 @@ repoUrl: "#"
 
 ### About The Project
 
-A rythm game with strong narrative elements, focused on telling the story of a wartime telegraphist in the year 1920, with the Battle of Warsaw being the highlight. 
+A rythm game with strong narrative elements, focused on telling the story of a wartime telegraphist in the year 1920, with the Battle of Warsaw being the highlight. The project is currently being worked on, with the release date being set in 2024.
 
 ### Tools Used
 

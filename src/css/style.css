@@ -78,7 +78,7 @@
   .text-center {
     text-align: center;
   }
-  
+
   /* Header Styles */
   .head__container {
     padding: 1.5rem 0;
@@ -173,7 +173,7 @@
   .profile__card {
     display: flex;
     flex-direction: column;
-    padding: 4rem 0 0;
+    padding: 3rem 0 0;
     flex: 1;
   }
   
@@ -185,12 +185,11 @@
   
   .profile__text--lead {
     font-weight: 500;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
   }
   
   .profile__text--highlight {
     font-weight: bold;
-    font-size: 1.25rem;
     color: var(--magenta-600);
   }
   
@@ -490,7 +489,7 @@
   }
   .contact_h{
     color: var(--magenta-600);
-    padding: 1rem 0;
+    padding: 5rem 0 1rem;
     font-size: 2.25rem;
   }
   .contact__icons {
