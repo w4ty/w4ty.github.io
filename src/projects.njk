@@ -5,7 +5,7 @@ layout: "base.njk"
 
 <h2 class="heading--main text-center">My projects</h2>
 <div class="project-list">
-  {% for project in collections.projects | reverse %}
+  {% asyncEach project in collections.projects | reverse %}
     {% include "project-card.njk" %}
-  {% endfor %}
+  {% endeach %}
 </div>

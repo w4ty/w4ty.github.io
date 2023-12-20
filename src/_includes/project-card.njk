@@ -1,6 +1,6 @@
 <article class="project-card">
   <div class="project-card__image-wrapper">
-    <a href="{{ project.url }}"><img class="project__image" src="{{ project.data.image }}" alt="{{ project.data.imageAlt }}"></a>
+    <a href="{{ project.url }}">{% EleventyImage project.data.image, project.data.imageAlt, "(min-width: 30em) 50vw, 100vw" %}</a>
   </div>
   <div class="project-card__body">
     <p class="project-card__date">{{ project.data.when }}</p>

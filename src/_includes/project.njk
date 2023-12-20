@@ -6,7 +6,7 @@ layout: "base.njk"
   <h2 class="project__heading">{{ title }}</h2>
   <p class="project__date">{{ when }}</a>
   <div class="project__image-wrapper">
-      <img class="project__image" src="{{ image }}" alt="{{ imageAlt }}">
+      {% EleventyImage image, imageAlt, "(min-width: 30em) 50vw, 100vw" %}
   </div>
   <div class="project__content prose">
     {{ content | safe }}
