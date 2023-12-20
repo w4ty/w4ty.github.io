@@ -25,7 +25,8 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy({ "./src/favicons": "/" });
     eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
     eleventyConfig.addNunjucksAsyncShortcode("EleventyImage", imageShortcode);
-    
+    eleventyConfig.addPassthroughCopy("CNAME");
+
     return {
         dir: {
             input: "src",
