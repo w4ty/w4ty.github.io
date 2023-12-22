@@ -12,7 +12,7 @@ tech:
 siteUrl: "https://store.steampowered.com/app/1968950/Decorporation/"
 repoUrl: "#"
 gif: /images/decorporation_1.gif
-screenshot: /images/decorporation_2.gif
+screenshot: /images/decorporation_2.jpg
 ---
 ### Links
 
