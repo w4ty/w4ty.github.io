@@ -10,8 +10,8 @@ tech:
   - "Junior Game Designer"
 siteUrl: "https://cyberevolver_studios.indie.af/the-towerer/"
 repoUrl: "#"
-gif: https://cyberevolver_studios.indie.af/the-towerer/photo1.webp
-screenshot: https://cyberevolver_studios.indie.af/the-towerer/photo4.webp
+gif: /images/thetowerer_1.webp
+screenshot: /images/thetowerer_2.webp
 ---
 ### Links
 

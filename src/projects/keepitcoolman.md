@@ -10,8 +10,8 @@ tech:
   - "Proofreader"
 siteUrl: "https://store.steampowered.com/app/2000320/Keep_it_Cool_Man/"
 repoUrl: "https://github.com/Biegus/Keep-It-Cool-Man"
-gif: https://cdn.akamai.steamstatic.com/steam/apps/2000320/extras/kicm2.gif?t=1661091422
-screenshot: https://cdn.akamai.steamstatic.com/steam/apps/2000320/ss_963bb84a00203b6bc883c0c895736bc3df7e9a2f.jpg?t=1661091422
+gif: /images/kicm_1.gif
+screenshot: /images/kicm_2.jpg
 ---
 
 ### Links

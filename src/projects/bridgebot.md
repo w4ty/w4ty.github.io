@@ -10,8 +10,8 @@ tech:
   - "Game Designer"
 siteUrl: "https://gamejolt.com/games/Bridgebot/483444"
 repoUrl: "https://github.com/TheMatiaz0/Bridgebot"
-gif: https://img.itch.zone/aW1hZ2UvNjA0ODczLzM2MzI1NzEucG5n/original/r0MOl9.png
-screenshot: https://img.itch.zone/aW1hZ2UvNjA0ODczLzM2MzI1NjkucG5n/original/KyUUPS.png
+gif: /images/bridgebot_1.png
+screenshot: /images/bridgebot_2.png
 ---
 
 ### Links

@@ -11,8 +11,8 @@ tech:
   - "Solo Project"
 siteUrl: "#"
 repoUrl: "#"
-gif: https://i.gjcdn.net/public-data/games/4/0/283750/screenshots/void_r-mfkrp4hy.gif
-screenshot: https://i.gjcdn.net/public-data/games/4/0/283750/screenshots/screenshot1-zjjtpgp6.png
+gif: /images/voidr_1.gif
+screenshot: /images/voidr_2.png
 ---
 ### Links
 

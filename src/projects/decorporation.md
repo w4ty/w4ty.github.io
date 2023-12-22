@@ -11,8 +11,8 @@ tech:
   - "Additional Assets"
 siteUrl: "https://store.steampowered.com/app/1968950/Decorporation/"
 repoUrl: "#"
-gif: https://cdn.akamai.steamstatic.com/steam/apps/1968950/extras/Steam_1.gif?t=1666128322
-screenshot: https://cdn.akamai.steamstatic.com/steam/apps/1968950/extras/Steam_2.gif?t=1666128322
+gif: /images/decorporation_1.gif
+screenshot: /images/decorporation_2.gif
 ---
 ### Links
 

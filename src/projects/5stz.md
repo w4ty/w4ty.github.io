@@ -10,8 +10,8 @@ tech:
   - "Game Designer"
 siteUrl: "https://gamejolt.com/games/5MinutesToSurviveTheZombies/405208"
 repoUrl: "#"
-gif: https://i.gjcdn.net/public-data/games/6/208/405208/media/game-description/5d0d2446cfc8b-tsiu9thp.gif
-screenshot: https://i.gjcdn.net/public-data/games/6/208/405208/screenshots/5_minutes_to_survive_the_zombies_wxgyfmypsn-xkpvrdqq.png
+gif: /images/5stz_1.gif
+screenshot: /images/5stz_2.png
 ---
 ### Links
 
