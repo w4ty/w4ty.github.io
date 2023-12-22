@@ -11,6 +11,8 @@ tech:
   - "Proofreader"
 siteUrl: "https://telegraphist1920.com/"
 repoUrl: "#"
+gif: https://cdn.akamai.steamstatic.com/steam/apps/2584510/extras/sos.gif?t=1702734595
+screenshot: https://cdn.akamai.steamstatic.com/steam/apps/2584510/ss_9bfa44db88130dbf069b0de2fdf98b77c6842cfd.1920x1080.jpg?t=1702734595
 ---
 ### Links
 
@@ -30,6 +32,3 @@ Unity (C#), Trello, Notion, Anytype, Excel, Adobe Photoshop, Miro, Git
 Designing gameplay mechanics, improving UX, analysing and gathering feedback, finding and reporting glitches, proofreading.
 
 ### Screenshots
-
-![gif1](https://cdn.akamai.steamstatic.com/steam/apps/2584510/extras/sos.gif?t=1702734595)
-![screenshot1](https://cdn.akamai.steamstatic.com/steam/apps/2584510/ss_9bfa44db88130dbf069b0de2fdf98b77c6842cfd.1920x1080.jpg?t=1702734595)

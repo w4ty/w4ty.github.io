@@ -11,6 +11,8 @@ tech:
   - "Additional Assets"
 siteUrl: "https://store.steampowered.com/app/1968950/Decorporation/"
 repoUrl: "#"
+gif: https://cdn.akamai.steamstatic.com/steam/apps/1968950/extras/Steam_1.gif?t=1666128322
+screenshot: https://cdn.akamai.steamstatic.com/steam/apps/1968950/extras/Steam_2.gif?t=1666128322
 ---
 ### Links
 
@@ -29,6 +31,3 @@ Unity (C#), Trello, Notion, Adobe Photoshop, Audacity, Sony Vegas
 Finding and reporting bugs, analysing feedback from game testers and the community, designing and implementing game mechanics, balancing various parts of the game, creating additional audiovisual assets.
 
 ### Screenshots
-
-![gif1](https://cdn.akamai.steamstatic.com/steam/apps/1968950/extras/Steam_1.gif?t=1666128322)
-![gif2](https://cdn.akamai.steamstatic.com/steam/apps/1968950/extras/Steam_2.gif?t=1666128322)

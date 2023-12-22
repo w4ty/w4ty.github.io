@@ -10,6 +10,8 @@ tech:
   - "Junior Game Designer"
 siteUrl: "https://cyberevolver_studios.indie.af/the-towerer/"
 repoUrl: "#"
+gif: https://cyberevolver_studios.indie.af/the-towerer/photo1.webp
+screenshot: https://cyberevolver_studios.indie.af/the-towerer/photo4.webp
 ---
 ### Links
 
@@ -28,6 +30,3 @@ Unity (C#), Trello, Notion, Google Docs
 Finding all of the bugs and reporting them to programmers, getting and analyzing feedback from the community, balancing upgrades weapons and bosses.
 
 ### Screenshots
-
-![screenshot1](https://cyberevolver_studios.indie.af/the-towerer/photo1.webp)
-![screenshot4](https://cyberevolver_studios.indie.af/the-towerer/photo4.webp)
